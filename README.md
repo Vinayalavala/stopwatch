@@ -1,2 +1,2 @@
-# stopwatch
-my stopwatch
+# time
+my time
